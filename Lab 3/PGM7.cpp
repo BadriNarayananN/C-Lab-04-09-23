@@ -14,7 +14,7 @@ int main()
 		}
 		printf("%d",b);
 	}
-	else if(n==1) printf("0");
-	else printf("1");
+	else if(n==1) printf("1");
+	else printf("0");
 	return 0;
 }
